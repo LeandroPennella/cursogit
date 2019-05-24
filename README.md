@@ -28,3 +28,27 @@ Un **gran poder** requiere _una_ gran *responsabilidad*
  ![guthub](https://www.proadmintierra.info/wp-content/uploads/2018/04/git.png)
  
  [ir](https://www.proadmintierra.info/wp-content/uploads/2018/04/git.png)
+
+- [ ] task item
+- [x] task item
+
+h1 | h2
+---|---
+c1 | c2
+c3 | c4
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+```c#
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
